@@ -1,0 +1,7 @@
+1. The folder includes the source codes of continuous-time beam tracking based on neural ordinary differential equation (ODE).
+2. The folder is free for academic use, including dataset utilization, simulation result reproduction, model improvement, etc.
+3. Due to storage restriction of Github, the dataset can be downloaded from:
+Tsinghua Cloud: https://cloud.tsinghua.edu.cn/d/b1cf9fd7e09d466d94a5/
+4. For academic use, the related work may be published in:
+Ke Ma, Fan Zhang, Wenqiang Tian, Zhaocheng Wang, ``Continuous-Time mmWave Beam Prediction with ODE-LSTM Learning Architecture'', submitted to IEEE Wireless Communiations Letters.
+Please cite the reference if it has been successfully accepted.
