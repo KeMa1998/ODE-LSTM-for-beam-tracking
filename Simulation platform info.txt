@@ -1,0 +1,7 @@
+1. Deep learning model (Pytorch based on single NVIDIA GeForce RTX 3080Ti)
+Python version: Python 3.6
+CUDA version: CUDA 11.4
+NVIDIA Driver version: 470.129.06
+Pytorch version: 1.10.1
+2. Data generation & figure plot: MATLAB R2019a
+
