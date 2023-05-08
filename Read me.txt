@@ -3,6 +3,6 @@
 3. Due to storage restriction of Github, the dataset can be downloaded from:
 Tsinghua Cloud: https://cloud.tsinghua.edu.cn/d/b1cf9fd7e09d466d94a5/
 The final-version trained models can be downloaded from:
-Tsinghua Cloud: https://cloud.tsinghua.edu.cn/d/e3b3793cb4ed4950be66/
+Tsinghua Cloud: https://cloud.tsinghua.edu.cn/d/3cdd6581990142939d3b/
 4. For academic use, the related work may be published in:
 Ke Ma, Fan Zhang, Wenqiang Tian, Zhaocheng Wang, ``Continuous-Time mmWave Beam Prediction with ODE-LSTM Learning Architecture'', minor revision, IEEE WCL.
